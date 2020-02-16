@@ -1,1 +1,1 @@
-FLASK_APP=app/pincontroller.py
+FLASK_APP=pincontroller.py
